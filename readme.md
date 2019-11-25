@@ -32,7 +32,7 @@ Add the following dependency to your `pom.xml` file:
 </dependency>
 ```
 
-Please be sure to replace `1.X.X` with the latest version number of the DWS3 SDK.
+Please be sure to replace `1.X.X` with the latest version number of the DWS3 SDK which can be found at [The Central Repository](https://search.maven.org/artifact/com.docmosis/docmosis-cloud-dws3-sdk-java/).
 
 #### JAR file
 
